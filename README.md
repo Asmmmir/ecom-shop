@@ -1,7 +1,7 @@
-#Ecommerce Online Shop
+# Ecommerce Online Shop
 This project is an ecommerce online shop built using Next.js, React, MongoDB, and Redux. It provides a complete solution for setting up and running an online store, allowing users to browse and purchase products, manage their cart, and complete transactions seamlessly.
 
-##Features
+## Features
 * User Authentication: The application supports user registration and authentication, allowing customers to create accounts, log in securely, and maintain their profile information.
 
 * Product Catalog: The online shop provides a comprehensive product catalog where customers can browse various categories, view detailed product descriptions, images, and prices. The search functionality enables users to quickly find specific products.
@@ -14,7 +14,7 @@ This project is an ecommerce online shop built using Next.js, React, MongoDB, an
 
 * User Reviews and Ratings: Customers can leave reviews and ratings for products, providing valuable feedback to other shoppers and helping them make informed purchasing decisions.
 
-#Technologies Used
+# Technologies Used
 * Next.js: A React framework for building server-side rendered and static websites, providing excellent performance and SEO capabilities.
 
 * React: A JavaScript library for building user interfaces, offering reusable components and a virtual DOM for efficient rendering.
